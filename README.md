@@ -1,3 +1,3 @@
 # webdevpractice
 
-practicing HTML/CSS and jQuery
+practicing HTML/CSS, jQuery, Bootstrap in Free Code camp
